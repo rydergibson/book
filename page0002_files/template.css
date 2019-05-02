@@ -1,0 +1,8 @@
+.selected{outline: 1px solid green; }
+.pagebreak{margin:0;}
+figure{margin:0;}
+figure#bodyimage img{width: 100%;}
+.-epub-media-overlay-active {	background-color: #ffff00; }
+.-epub-media-overlay-active span{	background-color: #ffff00; }
+.-epub-media-overlay-active span span{background-color: #ffff00 !important; }
+.initial{position: initial; }

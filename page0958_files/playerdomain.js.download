@@ -1,0 +1,5 @@
+try{
+var dom = window.location.host.substring(window.location.host.indexOf('.')+1); 
+window.document.domain = dom;
+}catch(err){
+}
